@@ -12,7 +12,7 @@
 
 ✨ ¡Confía en nosotros para impulsar el éxito de tu empresa! Estamos aquí para hacer realidad tus proyectos y solucionar tus desafíos de manera eficiente y efectiva.
 
-📫 Te puedes poner en contacto con nosotros al correo <info@ipproyectosysoluciones.com> o <ipproyectossoluciones@gmail.com>.
+📫 Te puedes poner en contacto con nosotros al correo <info@ipproyectosysoluciones.com.co> o <ipproyectossoluciones@gmail.com>.
 Tambien puedes patrocinar nuestros desarrollos y los de mi equipo de trabajo ⚒ en el siguiente link [Sponsor](https://github.com/sponsors/ipproyectosysoluciones)
 
 ¡Espero con ansias ser parte de tu red en GitHub!
